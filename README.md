@@ -11,7 +11,7 @@ The **Auditory Attention Switching Dataset (AASD)** provides a comprehensive col
 
 The dataset is available through Zenodo for easy access.
 ### Download the Dataset
-AASD on Zenodo (DOI:(https://doi.org/10.5281/zenodo.17413336))
+AASD on Zenodo (DOI:https://doi.org/10.5281/zenodo.17413336)
 
 ---
 
