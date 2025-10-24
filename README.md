@@ -15,7 +15,11 @@ AASD on Zenodo (DOI:https://doi.org/10.5281/zenodo.17413336)
 
 ---
 
-## 📝 Prerequisites
+## 📝 Data Processing
+
+EEG Processing: src/AASD_processing.m
+
+### Prerequisites
 
 - **MATLAB** R2021b+ (recommended)
 - Toolboxes: **Signal Processing Toolbox** (recommended)
