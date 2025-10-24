@@ -17,7 +17,7 @@ AASD on Zenodo (DOI:https://doi.org/10.5281/zenodo.17413336)
 
 ## 📝 Data Processing
 
-EEG Processing: src/AASD_processing.m
+EEG Processing: `src/AASD_processing.m`
 
 ### Prerequisites
 
